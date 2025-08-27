@@ -1,3 +1,7 @@
+# Mevo is Public Now
+
+You can now self-host Mevo on your own server without any limitations or restrictions.
+
 ## Mevo Stack Manual Setup on Ubuntu (no Docker)
 
 This guide walks you through running the following projects on an Ubuntu server without Docker:
