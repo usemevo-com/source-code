@@ -1,6 +1,8 @@
 # Mevo is Public Now
 
-You can now self-host Mevo on your own server without any limitations or restrictions.
+You can now host Mevo on your own server without any limitations or restrictions.
+
+[Mevo Github Repository](https://github.com/usemevo-com/source-code)
 
 ## Mevo Stack Manual Setup on Ubuntu (no Docker)
 
